@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-IEEE BSN Paper accepted! I also received a travel award to attend the conference in Chicago!
+[IEEE BSN](https://bsn.embs.org/2024/) Paper accepted! Our [WAIRE](https://sites.google.com/utexas.edu/ieebsn-waire) (AI + Energy Harvesting) workshop was accepted. I also received a [travel award](https://bsn.embs.org/2024/contributors/awards/) to attend the conference in Chicago!

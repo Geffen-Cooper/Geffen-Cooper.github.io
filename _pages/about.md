@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://github.com/Geffen-Cooper/geffen-cooper.github.io/tree/main/assets/pdf/Resume_Geffen_Cooper_UT_Austin.pdf'>Resume</a>
 
 profile:
   align: left
@@ -27,5 +27,3 @@ latest_posts:
 Hi! My name is Geffen Cooper. I am a third-year Ph.D. student in the [System Level Design (SLD)](https://radum.ece.utexas.edu/) group at UT Austin advised by Professor [Radu Marculescu](https://www.ece.utexas.edu/people/faculty/radu-marculescu). Before my Ph.D., I graduated from UC Santa Barbara (UCSB) in 2022 with a B.S. in computer engineering.
 
 My research focuses on machine learning with *batteryless* sensors, with applications in wearables and multisensor human activity recognition. More broadly, I am interested in time-series and designing efficient algorithms for processing sparse and asynchronous data streams. I am also passionate about Edge AI, exploring low-power deep learning solutions for resource-constrained devices.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

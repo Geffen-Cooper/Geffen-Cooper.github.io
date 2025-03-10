@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/geffen-cooper", "_blank");
+          window.open("https://www.linkedin.com/in/geffen-cooper-48017819b", "_blank");
         },
       },{
         id: 'social-rss_icon',

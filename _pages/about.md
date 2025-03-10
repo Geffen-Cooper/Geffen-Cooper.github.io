@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://raw.githubusercontent.com/Geffen-Cooper/geffen-cooper.github.io/main/assets/pdf/Resume_Geffen_Cooper_UT_Austin.pdf" target="_blank">Resume</a>
-
+subtitle: <a href='/assets/pdf/Resume_Geffen_Cooper_UT_Austin.pdf'>Resume</a>
 
 profile:
   align: left

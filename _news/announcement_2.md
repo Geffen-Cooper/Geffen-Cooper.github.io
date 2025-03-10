@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[IoTDI](https://conferences.computer.org/iotDI/2024/) paper and two demos accepted! We received a professional development award to present these works in Hong Kong!
+One [IoTDI](https://conferences.computer.org/iotDI/2024/) paper and two demos were accepted. We received a professional development award to present these works in Hong Kong.

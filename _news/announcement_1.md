@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my Ph.D. at UT Austin!
+I start my Ph.D. at UT Austin
